@@ -1,0 +1,31 @@
+{
+    "python.pythonPath": "C:\\Users\\devuser\\Anaconda3\\python.exe",
+    "debug.allowBreakpointsEverywhere": true,
+    "problems.decorations.enabled": true,
+    "python.linting.enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.prospectorEnabled": false,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pydocstyleEnabled": true,
+    "python.linting.pylintArgs": [
+        "--disable=C0103",
+        "--disable=w0107"
+    ],
+    "python.linting.flake8Args": [
+        "--disable=E265"
+    ],
+    "python.linting.pycodestyleArgs": [
+        "--disable=E265"
+    ],
+    "python.formatting.autopep8Args": [
+        "--aggressive",
+        "--experimental"
+    ],
+    "terminal.integrated.cwd": "C:\\Users\\devuser\\Desktop\\repos",
+    "python.linting.pylintUseMinimalCheckers": false,
+    "python.workspaceSymbols.enabled": true,
+    "terminal.integrated.rendererType": "auto",
+    "editor.fontLigatures": true
+}

@@ -1,0 +1,34 @@
+netsh wlan set hostednetwork mode=allow ssid=net key=password
+
+
+netsh wlan start hostednetwork
+
+✅ White Heavy Check Mark A check mark that displays with a white outlined appearance. Shows on most platforms with a bright green rounded rectangle or circle…. 
+⭕ Heavy Large Circle Used as an alternative to a check (tick) in Japan for a something that is correct. The opposite of an X (cross mark) for something wrong
+✔ Heavy Check Mark Emoji. The 'heavy check mark' emoji is a text-based symbol that has been around since Unicode V1.1, and should be supported by just about every device and browser. As a standard symbol, you should also be able to copy and paste the 'heavy check mark' symbol (or the HTML entity &#x2714;) in your browser or on social networking...
+
+👌
+getemoji.com
+️ Copy and 📋 Paste Emoji 👍 No apps required. Emojis are supported on iOS, Android, macOS, Windows, Linux and ChromeOS. Copy and paste emojis for Twitter, Facebook, Slack, Instagram, Snapchat, Slack, GitHub, Instagram, WhatsApp and more. Use Emoji Classic on older systems.
+❌ Meaning – Cross Mark Emoji A red cross mark emoji is the symbol for multiplication or interdiction. This emoji can be used as the word “and” as well, but it generally refers to something that is …
+
+Red Circle Emoji
+https://emojiterra.com/red-circle
+🔴 Red Circle | Categories: ️ Geometric Symbols, 
+☎️ Classic Emojis, 
+📑 Complete Emoji List | Version: Emoji Version 1.0, Unicode 6.0 (2010).
+🖾 Frame with an X. Frame with an X was approved as part of Unicode 7.0 in 2014. 
+🚩 This Unicode character has no emoji version, meaning this is intended to display only as a black and white glyph on most platforms. It has not been Recommended For General Interchange ( RGI) — as an emoji — by Unicode.
+🟢 Green Circle. Green Circle was approved as part of Unicode 12.0 in 2019 under the name “Large Green Circle” and added to Emoji 12.0 in 2019.
+Green Circle emoji is a green colored circle. Since green is considered a color of acceptance, you can use this emoji to give the green light to someone to move on with the project. For a simpler use, it can be used to talk about the color green in whatever situation it arose in. Send it with the 
+👍 Thumbs Up Sign emoji to show your approval.
+🔠🔵
+May 10, 2019 · 🟡 Yellow Circle. Yellow Circle was approved as part of Unicode 12.0 in 2019 under the name “Large Yellow Circle” and added to Emoji 12.0 in 2019.
+Yellow Circle emoji is a bright, solid yellow colored circle. It can be used to represent the birght and peppy mood that you are in. Or, as a simpler image, 
+it can be used to represent the ☀ Sun. Send it with the 🌞 
+☀ Sun With Face emoji to say that it is too bright for you to go outside.
+
+
+
+
+
