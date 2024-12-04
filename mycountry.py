@@ -18,11 +18,8 @@ mylist = [
     "Vietnam", "Wales", "Zambia", "Zimbabwe"
 ]
 
-
-nShuffles = SystemRandom().choice(range(9, 19))
-while nShuffles > 0:
-    SystemRandom().shuffle(mylist)
-    nShuffles = nShuffles - 1
+SystemRandom().shuffle(mylist)
+    
 
     pass
 print("")
